@@ -1,0 +1,24 @@
+{
+  "name": "supporter-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build index.html",
+    "test": "echo \"Info: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhersen/supporter-parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhersen/supporter-parcel/issues"
+  },
+  "homepage": "https://github.com/rhersen/supporter-parcel#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
